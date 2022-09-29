@@ -35,4 +35,4 @@ This is a basic todo app where users can authenticate them self, create todo, as
 
 
 ## Due date
-23-10-2021
+31-10-2021
